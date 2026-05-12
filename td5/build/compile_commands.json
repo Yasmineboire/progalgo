@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex1.dir\\src\\main_ex1.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\main_ex1.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/main_ex1.cpp",
+  "output": "CMakeFiles/ex1.dir/src/main_ex1.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex1.dir\\src\\sorts.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\sorts.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/sorts.cpp",
+  "output": "CMakeFiles/ex1.dir/src/sorts.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex2.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex2.dir\\src\\main_ex2.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\main_ex2.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/main_ex2.cpp",
+  "output": "CMakeFiles/ex2.dir/src/main_ex2.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex2.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex2.dir\\src\\sorts.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\sorts.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/sorts.cpp",
+  "output": "CMakeFiles/ex2.dir/src/sorts.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex3.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex3.dir\\src\\main_ex3.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\main_ex3.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/main_ex3.cpp",
+  "output": "CMakeFiles/ex3.dir/src/main_ex3.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex3.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex3.dir\\src\\sorts.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\sorts.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/sorts.cpp",
+  "output": "CMakeFiles/ex3.dir/src/sorts.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex4.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex4.dir\\src\\main_ex4.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\main_ex4.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/main_ex4.cpp",
+  "output": "CMakeFiles/ex4.dir/src/main_ex4.cpp.obj"
+},
+{
+  "directory": "C:/imac/prog algo/s2/td3/build",
+  "command": "C:\\Users\\yasmi\\Documents\\imac\\winlibs\\mingw64\\bin\\g++.exe  @CMakeFiles/ex4.dir/includes_CXX.rsp -g -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\ex4.dir\\src\\sorts.cpp.obj -c \"C:\\imac\\prog algo\\s2\\td3\\src\\sorts.cpp\"",
+  "file": "C:/imac/prog algo/s2/td3/src/sorts.cpp",
+  "output": "CMakeFiles/ex4.dir/src/sorts.cpp.obj"
+}
+]

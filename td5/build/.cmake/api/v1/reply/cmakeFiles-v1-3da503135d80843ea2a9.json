@@ -1,0 +1,246 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "C:/imac/prog algo/s2/td3/src/*.cpp",
+			"paths" : 
+			[
+				"C:/imac/prog algo/s2/td3/src/main_ex1.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex2.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex3.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex4.cpp",
+				"C:/imac/prog algo/s2/td3/src/sorts.cpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/imac/prog algo/s2/td3/src/main_*.cpp",
+			"paths" : 
+			[
+				"C:/imac/prog algo/s2/td3/src/main_ex1.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex2.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex3.cpp",
+				"C:/imac/prog algo/s2/td3/src/main_ex4.cpp"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.1.0/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/yasmi/Documents/imac/winlibs/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/imac/prog algo/s2/td3/build",
+		"source" : "C:/imac/prog algo/s2/td3"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
